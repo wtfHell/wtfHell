@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wtfhell&show_icons=true&locale=en" alt="wtfhell" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wtfhell&" alt="wtfhell" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wtfhell&theme=dark" alt="wtfhell" /></p>
