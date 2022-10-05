@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wtfhell&label=Profile%20views&color=000000&style=flat" alt="wtfhell" /> </p>
 
-- 🌱 I’m currently learning **Courses of Python**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Python**
 
